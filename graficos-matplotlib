@@ -1,0 +1,67 @@
+import matplotlib.pyplot as plt
+# Datos
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 5, 7, 11]
+# Crear la gráfica
+plt.plot(x, y)
+# Títulos y etiquetas
+plt.title("Gráfico de Números Primos")
+plt.xlabel("x")
+plt.ylabel("y")
+# Mostrar la gráfica
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
